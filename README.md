@@ -5,6 +5,8 @@
    *You need a docker desktop on your machine
 
     cd ./server
+
+    pnpm install
     
     docker build -t autobrowser-backend -f Dockerfile .
    
